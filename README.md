@@ -2,6 +2,15 @@
 Hello. this is the tutorial of how to make a discord video bait using github.
 
 # WARNING: MAKE SURE YOU FOLLOW GITHUB TOS WHILE DOING THIS. DONT USE THIS TO UPLOAD RANCHY (nsfw) STUFF AS IT BREAKS GITHUB TOS.
+# Live demo if your lazy.
+
+
+https://meowgoober.github.io/discordbait/
+
+
+# you can also make more urls using folders but im lazy to show you how lol anyway follow how it works below
+
+
 # Step 1: Fork this repo.
 We need to fork this repo because we cannot edit it using my repo. You can fork this repo by pressing this button when you reach the main page of this repo:
 
@@ -68,3 +77,15 @@ Replace https://guns.lol/dorker with the url you wanna make it refirect to when 
 # Step 4: the final part. Making the url.
 
 Click on settings and click on pages. choose main as the branch in Branch setting. And click on save. Now wait for your url to be maken so you can use it on discord :D
+
+# What it looks like in discord.
+
+![image](https://github.com/meowgoober/discordbait/assets/142069939/682a98dd-8223-4161-804b-5e6dd7054d6c)
+
+# What it looks like when played
+
+![image](https://github.com/meowgoober/discordbait/assets/142069939/324cba24-8940-4286-bc3a-57c7e7fd4c89)
+
+
+
+
