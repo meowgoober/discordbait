@@ -17,3 +17,12 @@ Now click on this button to fork:
 
 
 ![image](https://github.com/meowgoober/discordbait/assets/142069939/ef09eb5f-186d-45fc-8a8a-10fe816524f3)
+
+Now you should be redirected to you own version of this repo that is forked.
+
+# Step 2: getting the media ready
+
+Head over to the media folder and upload your bait gif/image and video. you can do it like this:
+
+![image](https://github.com/meowgoober/discordbait/assets/142069939/6fc8de1a-ceef-426f-82ba-081fb83a360e)
+
