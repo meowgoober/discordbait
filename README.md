@@ -26,3 +26,13 @@ Head over to the media folder and upload your bait gif/image and video. you can 
 
 ![image](https://github.com/meowgoober/discordbait/assets/142069939/6fc8de1a-ceef-426f-82ba-081fb83a360e)
 
+
+# Step 3: making the bait.
+
+Now heres the making process. First you have to edit index.html. This is the html page to make the bait happen.
+
+
+Now the code looks like this. We are gonna modify it.
+
+![image](https://github.com/meowgoober/discordbait/assets/142069939/dc83dd6c-936f-4843-9cd0-f543d7c46727)
+
